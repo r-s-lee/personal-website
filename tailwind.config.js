@@ -2,7 +2,10 @@
 module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
-    fontFamily: { serif: ["CMU Serif", "Arial"], sans: ["CMU Sans Serif"] },
+    fontFamily: {
+      serif: ["Computer Modern Serif", "Times New Roman"],
+      sans: ["Computer Modern Sans", "Arial"],
+    },
     extend: {},
   },
   plugins: [],
