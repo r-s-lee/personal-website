@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.065afde4.css",
+    "main.js": "/static/js/main.73e4c6bd.js",
+    "static/js/488.d07c9134.chunk.js": "/static/js/488.d07c9134.chunk.js",
+    "static/media/Retrograde.png": "/static/media/Retrograde.411841798e503d3c380c.png",
+    "static/media/me.JPG": "/static/media/me.ddb789a0b300b8e4b562.JPG",
+    "static/media/JaneStreet.png": "/static/media/JaneStreet.0cef5eab2b13ba19cf62.png",
+    "static/media/UChicago.png": "/static/media/UChicago.c14c65c8bfac9a5b3cf0.png",
+    "static/media/LinkedIn.png": "/static/media/LinkedIn.68ac41e1459436bfd38f.png",
+    "static/media/FoodFight.avif": "/static/media/FoodFight.06c7cee4935abef8a210.avif",
+    "index.html": "/index.html",
+    "main.065afde4.css.map": "/static/css/main.065afde4.css.map",
+    "main.73e4c6bd.js.map": "/static/js/main.73e4c6bd.js.map",
+    "488.d07c9134.chunk.js.map": "/static/js/488.d07c9134.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.065afde4.css",
+    "static/js/main.73e4c6bd.js"
+  ]
+}
