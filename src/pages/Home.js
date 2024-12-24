@@ -49,7 +49,7 @@ const Home = () => {
         aria-describedby="modal-modal-description"
       >
         <Box sx={boxStyle} className="absolute top-1/4 left-1/4 w-1/2 h-fit">
-          <p className="m-5 text-sm md:text-2xl md:m-10 text-blue-600">
+          <p className="m-5 text-base md:text-lg text-blue-600">
             <b>tl;dr</b> I'm a bs/ms student at uchicago studying math & CS. i
             like to work on cool projects, be adventurous, & ponder.
           </p>

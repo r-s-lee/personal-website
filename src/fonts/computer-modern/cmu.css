@@ -1,0 +1,209 @@
+/* CMU Serif */
+@font-face {
+  font-family: "CMU Serif";
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: url("cmunrm.ttf") format("truetype");
+}
+
+/* CMU Serif Italic*/
+@font-face {
+  font-family: "CMU Serif";
+  font-style: italic;
+  font-weight: normal;
+  font-display: swap;
+  src: url("cmunti.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "CMU Serif";
+  font-style: normal;
+  font-weight: bold;
+  font-display: swap;
+  src: url("cmunbx.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "CMU Serif";
+  font-style: italic;
+  font-weight: bold;
+  font-display: swap;
+  src: url("cmunbi.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "CMU Serif";
+  font-style: italic;
+  font-weight: bolder;
+  font-display: swap;
+  src: url("cmunbl.ttf") format("truetype");
+}
+
+/* CMU Sans Serif */
+
+/* CMU Sans Serif BoldOblique */
+@font-face {
+  font-family: "CMU Sans Serif";
+  font-style: italic;
+  font-weight: normal;
+  font-display: swap;
+  src: url("cmunsi.ttf") format("truetype");
+}
+
+/* CMU Sans Serif Bold */
+@font-face {
+  font-family: "CMU Sans Serif";
+  font-style: normal;
+  font-weight: bold;
+  font-display: swap;
+  src: url("cmunsx.ttf") format("truetype");
+}
+
+/* CMU Sans Serif Medium */
+@font-face {
+  font-family: "CMU Sans Serif";
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: url("cmunss.ttf") format("truetype");
+}
+
+/* CMU Sans Serif BoldOblique */
+@font-face {
+  font-family: "CMU Sans Serif";
+  font-style: italic;
+  font-weight: bold;
+  font-display: swap;
+  src: url("cmunso.ttf") format("truetype");
+}
+
+/* CMU Bright */
+
+/* CMU Bright Roman */
+@font-face {
+  font-family: "CMU Bright";
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: url("cmunbmr.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "CMU Bright";
+  font-style: italic;
+  font-weight: normal;
+  font-display: swap;
+  src: url("cmunbmo.ttf") format("truetype");
+}
+
+/* Bright Semibold  */
+@font-face {
+  font-family: "CMU Bright";
+  font-style: normal;
+  font-weight: bold;
+  font-display: swap;
+  src: url("cmunbsr.ttf") format("truetype");
+}
+
+/* Bright Semibold oblique */
+@font-face {
+  font-family: "CMU Bright";
+  font-style: italic;
+  font-weight: bold;
+  font-display: swap;
+  src: url("cmunbso.ttf") format("truetype");
+}
+
+/* CMU Typewriter */
+
+/* Typewriter Italic  */
+@font-face {
+  font-family: "CMU Typewriter";
+  font-style: italic;
+  font-weight: normal;
+  font-display: swap;
+  src: url("cmunit.ttf") format("truetype");
+}
+
+/* CMU Typewriter Text BoldItalic */
+@font-face {
+  font-family: "CMU Typewriter";
+  font-style: italic;
+  font-weight: bold;
+  font-display: swap;
+  src: url("cmuntx.ttf") format("truetype");
+}
+
+/* CMU Typewriter Text Regular */
+@font-face {
+  font-family: "CMU Typewriter";
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: url("cmuntt.ttf") format("truetype");
+}
+
+/* CMU Typewriter Text Bold */
+@font-face {
+  font-family: "CMU Typewriter";
+  font-style: normal;
+  font-weight: bold;
+  font-display: swap;
+  src: url("cmuntb.ttf") format("truetype");
+}
+
+/* CMU Concrete */
+
+/* Concrete Roman  */
+@font-face {
+  font-family: "CMU Concrete";
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: url("cmunorm.ttf") format("truetype");
+}
+
+/* Concrete Bold Italic  */
+@font-face {
+  font-family: "CMU Concrete";
+  font-style: italic;
+  font-weight: bold;
+  font-display: swap;
+  src: url("cmunobi.ttf") format("truetype");
+}
+
+/* CMU Concrete Italic */
+@font-face {
+  font-family: "CMU Concrete";
+  font-style: italic;
+  font-weight: normal;
+  font-display: swap;
+  src: url("cmunoti.ttf") format("truetype");
+}
+
+/* CMU Concrete Bold */
+@font-face {
+  font-family: "CMU Concrete";
+  font-style: normal;
+  font-weight: bold;
+  font-display: swap;
+  src: url("cmunobx.ttf") format("truetype");
+}
+
+/* CMU Classical Serif Italic*/
+/* @font-face {
+  font-family: "CMU Serif";
+  font-style: italic;
+  font-weight: normal;
+  font-display: swap;
+  src: url("cmunci.ttf") format("truetype");
+} */
+
+/* CMU Serif Extra RomanSlanted cmunsl*/
+/* CMU Serif Upright Italic UprightItalic cmunui */
+/* CMU Sans Serif Demi Condensed DemiCondensed  cmunssdc*/
+/* CMU Typewriter Text Light [cmunbtl.ttf] */
+/* CMU Typewriter Text LightOblique [cmunbto.ttf] */
+/* CMU Typewriter Text Variable Width Medium cmunvt*/
+/* CMU Typewriter Text Variable Width Italic cmunvi */

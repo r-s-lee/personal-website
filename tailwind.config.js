@@ -3,8 +3,8 @@ module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
     fontFamily: {
-      serif: ["Computer Modern Serif", "Times New Roman"],
-      sans: ["Computer Modern Sans", "Arial"],
+      serif: ["CMU Serif", "Times New Roman"],
+      sans: ["CMU Sans Serif", "Arial"],
     },
     extend: {},
   },
