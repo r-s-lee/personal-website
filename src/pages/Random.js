@@ -7,7 +7,12 @@ function Random() {
         <h1 className="text-2xl italic font-bold">Random</h1>
       </div>
       <div className="text-center">
-        <p>{"{{something cool}}"}</p>
+        {/* Links */}
+        <p>
+          <a href="https://goodreads.com/rachelsle" className="text-blue-600">
+            My Goodreads profile
+          </a>
+        </p>
       </div>
     </div>
   );

@@ -16,6 +16,9 @@ const Home = () => {
     bgcolor: "white",
   };
 
+  const tldr =
+    "I'm currently working in NYC as a software engineer at Confido, a YC-backed start-up making AI automations for CPG brands. I recently graduated with a joint BS/MS in math & CS from UChicago. i like to work on cool projects, be adventurous, & ponder.";
+
   return (
     <div className="w-screen h-screen mx-auto px-4 py-8 flex justify-center">
       <div className="p-6 w-fit h-fit flex items-center lg:w-3/4 xl:w-1/2 justify-center md:space-x-6 border-solid border border-slate-950 rounded-lg">
@@ -30,11 +33,10 @@ const Home = () => {
             welcome to my website!
             <br />
           </p>
-          <p className="text-blue-600 text-xl hidden lg:block">
-            <b>tl;dr</b> I'm a bs/ms student at uchicago studying math & CS. i
-            like to work on cool projects, be adventurous, & ponder.
+          <p className="text-blue-600 text-md hidden lg:block">
+            <b>tl;dr</b> {tldr}
           </p>
-          <p className="text-blue-600 text-xl block lg:hidden">
+          <p className="text-blue-600 text-md block lg:hidden">
             <button type="button" onClick={toggleModal}>
               <b>tl;dr</b>
             </button>
@@ -49,9 +51,8 @@ const Home = () => {
         aria-describedby="modal-modal-description"
       >
         <Box sx={boxStyle} className="absolute top-1/4 left-1/4 w-1/2 h-fit">
-          <p className="m-5 text-base md:text-lg text-blue-600">
-            <b>tl;dr</b> I'm a bs/ms student at uchicago studying math & CS. i
-            like to work on cool projects, be adventurous, & ponder.
+          <p className="m-5 text-base md:text-md text-blue-600">
+            <b>tl;dr</b> {tldr}
           </p>
         </Box>
       </Modal>
